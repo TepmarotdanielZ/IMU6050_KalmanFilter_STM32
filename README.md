@@ -12,3 +12,34 @@ MPU6050 sensor module is complete 6-axes Motion Tracking Device. It combines 3-a
       ▪ SDA : Serial Data pin. Connect this pin to microcontrollers SDA pin.
       ▪ GND : Ground pin. Connect this pin to ground connection.
       ▪ VCC : Power supply pin, connect this pin to +5V DC supply.
+
+# 2. CONFIGURATION STM32
+
+       ▪ RCC :
+
+![Screenshot from 2024-04-24 15-02-43](https://github.com/TepmarotdanielZ/IMU6050_KalmanFilter_STM32/assets/139426571/3e82bb2b-8a5b-40ef-a3ee-b3809fa4697c)
+
+       ▪ SYS :
+
+![Screenshot from 2024-04-24 15-03-18](https://github.com/TepmarotdanielZ/IMU6050_KalmanFilter_STM32/assets/139426571/39cb064a-408b-47c2-8c98-1c5397652b93)
+
+       ▪ CLOCK :
+
+![Screenshot from 2024-04-24 15-03-36](https://github.com/TepmarotdanielZ/IMU6050_KalmanFilter_STM32/assets/139426571/475caf2f-848d-49fb-b682-f73aafac7c68)
+
+       ▪ I2C :
+
+![Screenshot from 2024-04-24 15-04-04](https://github.com/TepmarotdanielZ/IMU6050_KalmanFilter_STM32/assets/139426571/6a4bb307-b523-4b3a-af9e-440588936f9d)
+
+       ▪ CODE :
+
+![image_2024-04-24_15-04-34](https://github.com/TepmarotdanielZ/IMU6050_KalmanFilter_STM32/assets/139426571/f3fdabcb-d7c7-4336-8096-94088ebb97ce)
+
+![Screenshot from 2024-04-24 15-04-44](https://github.com/TepmarotdanielZ/IMU6050_KalmanFilter_STM32/assets/139426571/a2a552f4-7176-4d39-ad02-7a8765b4be55)
+
+
+# 3. SCHEMATIC AND CONNECTION
+
+# 4. RESULT TESTING 
+
+# 4. RESULT VDO TESTING 
