@@ -40,6 +40,8 @@ MPU6050 sensor module is complete 6-axes Motion Tracking Device. It combines 3-a
 
 # 3. SCHEMATIC AND CONNECTION
 
+![image](https://github.com/TepmarotdanielZ/IMU6050_KalmanFilter_STM32/assets/139426571/350b4aeb-5e27-4988-a842-1d4eb5367128)
+
 # 4. RESULT TESTING 
 
 # 4. RESULT VDO TESTING 
